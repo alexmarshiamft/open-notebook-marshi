@@ -836,7 +836,7 @@ export const frFR = {
     modelTypeHint: "Sélectionnez le type de modèles que vous souhaitez ajouter. Si vous avez besoin de types différents, ajoutez-les par lots séparés.",
     deleteModel: "Supprimer le modèle",
     defaultAssignments: "Attributions des modèles par défaut",
-    defaultAssignmentsDesc: "Configurez quels modèles utiliser pour les différents usages d'MarshiLM",
+    defaultAssignmentsDesc: "Configurez quels modèles utiliser pour les différents usages de MarshiLM",
     missingRequiredModels: "Modèles requis manquants : {models}. MarshiLM pourrait ne pas fonctionner correctement sans eux.",
     selectModelPlaceholder: "Sélectionnez un modèle",
     requiredModelPlaceholder: "⚠️ Requis - Sélectionnez un modèle",
